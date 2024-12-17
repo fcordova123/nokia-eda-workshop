@@ -76,10 +76,11 @@ You may have noticed that the abstraction image refers to the nodes as TopoNodes
 Based on the image above:
 
 1. Click this dropdown to choose the `eda` namespace
-2. Click `Main`
-3. Click `Topologies`
-4. Click the `i` to open this information screen
-5. Click `leaf1` to be able to see all of the information about the node, take a moment to look at all of the available information about this node.
+2. HIghlight Left Top arrow, Click. You will see two options `Main` & `System Administration`. Stay on `Main`
+3. Scroll down under TOOLS heading then Click `Topologies`
+4. Click on `Physical` then Click the `i` to open this information screen
+5. Double click on `Physical` or click on 3 dots and click on Show Topology
+6. Click `leaf1` to be able to see all of the information about the node, Click `i`,  take a moment to look at all of the available information about this node.
 
 Next, look through the options on the left side of the screen to find `Nodes` in the `Targets` subsection.
 
@@ -182,7 +183,7 @@ Validating the Fabric configuration:
 5. Once you are properly amazed, click `Cancel`
 6. Click the `X` at the bottom of the `Transactions` window to discard the transaction.
 
-Faster! Better!
+Faster! Better! What IF you could quickly create your Fabric by using Operations as a Code?!!!!!!
 
 1. Open the [underlay_fabric.yaml](topology/underlay_fabric.yaml) file.
 2. Copy the contents of the file (`ctrl-a` followed by `ctrl-c`) or (`command-a` followed by `command-c`) on mac
